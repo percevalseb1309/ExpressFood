@@ -1,5 +1,5 @@
-# expressFood
-solution technique d'une application de restauration en ligne
+# ExpressFood
+__Projet OpenClassrooms :__ solution technique d'une application de restauration en ligne
 
 ## Énoncé
 
