@@ -1,5 +1,6 @@
 # ExpressFood
-__Projet OpenClassrooms :__ Solution technique d'une application de restauration en ligne
+__Projet OpenClassrooms :__ Solution technique d'une application de restauration en ligne  
+![UML - Use Case](https://github.com/percevalseb1309/ExpressFood/blob/master/2-passerCommande/useCase.jpg)
 
 ## Énoncé
 
